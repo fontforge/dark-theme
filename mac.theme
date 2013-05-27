@@ -1,0 +1,391 @@
+fontforge.FontView.GlyphInfoColor: #1f6bbd
+fontforge.FontView.EmptySlotFgColor: #cccbca
+fontforge.FontView.SelectedColor: #3875d6
+fontforge.FontView.SelectedFgColor: #ffffff
+fontforge.FontView.ChangedColor: #b5d6ff
+fontforge.FontView.HintingNeededColor: #cfe6b8
+fontforge.FontView.FontSize: 11
+fontforge.FontView.FontFamily: Lucida Grande, Helvetica Neue, Helvetica,courier,monospace
+
+fontforge.CharView.PointColor: #f57900
+fontforge.CharView.FirstPointColor: #904000
+fontforge.CharView.SelectedPointColor: #b0d30b
+fontforge.CharView.SelectedPointWidth: 2
+fontforge.CharView.ExtremePointColor: #ef2929
+fontforge.CharView.PointOfInflectionColor: #3491a4
+fontforge.CharView.AlmostHVColor: #8ae234
+fontforge.CharView.NextCPColor: #3491a4
+fontforge.CharView.PrevCPColor: #bf5fb6
+fontforge.CharView.SelectedCPColor: #ffffff
+fontforge.CharView.CoordinateLineColor: #80827c
+fontforge.CharView.ItalicCoordColor: #8f918d
+fontforge.CharView.MetricsLabelColor: #424242
+fontforge.CharView.HintLabelColor: #40bebe
+fontforge.CharView.BlueValuesStippledColor: #80729fcf
+fontforge.CharView.FamilyBlueStippledColor: #80f47272
+fontforge.CharView.DHintColor: #80d7a7a7
+fontforge.CharView.HHintColor: #80b7db95
+fontforge.CharView.VHintColor: #80b1c6e5
+fontforge.CharView.HFlexHintColor: #8ae234
+fontforge.CharView.VFlexHintColor: #8ae234
+fontforge.CharView.ConflictHintColor: #43d3d3
+fontforge.CharView.HHintActiveColor: #4e9a06
+fontforge.CharView.VHintActiveColor: #3464a4
+
+fontforge.CharView.WidthColor: #424242
+fontforge.CharView.WidthSelColor: #8ae234
+fontforge.CharView.GridFitWidthColor: #4e9a06
+fontforge.CharView.LigatureCaretColor: #c4a000
+fontforge.CharView.AnchorColor: #3464a4
+fontforge.CharView.AnchoredOutlineColor: #3464a4
+fontforge.CharView.TemplateOutlineColor: #4e9a06
+fontforge.CharView.OldOutlineColor: #3d7905
+fontforge.CharView.TransformOriginColor: #000000
+fontforge.CharView.GuideOutlineColor: #babcb9
+fontforge.CharView.GridFitOutlineColor: #4e9a06
+fontforge.CharView.BackgroundOutlineColor: #4e9a06
+fontforge.CharView.ForegroundOutlineColor: #000000
+fontforge.CharView.ClipPathColor: #3464a4
+fontforge.CharView.OpenPathColor: #660000
+fontforge.CharView.BackgroundImageColor: #ff888a85
+fontforge.CharView.FillColor: #80888a85
+fontforge.CharView.PreviewFillColor: #80888a85
+fontforge.CharView.TraceColor: #3d7905
+fontforge.CharView.RasterColor: #ff9fa19d
+fontforge.CharView.RasterNewColor: #ff8f918d
+fontforge.CharView.RasterOldColor: #ffbabdb6
+fontforge.CharView.RasterGridColor: #ffb1c6e5
+fontforge.CharView.RasterDarkColor: #ff888a85
+fontforge.CharView.DeltaGridColor: #cc0000
+fontforge.CharView.RulerBigTickColor: #3d7905
+fontforge.CharView.MeasureToolLineColor: #000000
+fontforge.CharView.MeasureToolPointColor: #ff0000
+fontforge.CharView.MeasureToolPointSnappedColor: #00ff00
+fontforge.CharView.MeasureToolCanvasNumbersColor: #ff0000
+fontforge.CharView.MeasureToolCanvasNumbersSnappedColor: #00ff00
+fontforge.CharView.MeasureToolWindowForeground: #424242
+fontforge.CharView.MeasureToolWindowBackground: #e0e0c0
+
+fontforge.MetricsView.AdvanceWidthColor: #80827c
+fontforge.MetricsView.ItalicAdvanceColor: #80827c
+fontforge.MetricsView.KernLineColor: #3d7905
+fontforge.MetricsView.SideBearingLineColor: #12376c
+fontforge.MetricsView.SelectedGlyphColor: #8f918d
+
+fontforge.View.Background: #f5f5f5
+
+Gdraw.Background: #f5f5f5
+Gdraw.Foreground: #424242
+Gdraw.ScreenWidthInches: 35
+
+Gdraw.GProgress.Font: 400 12pt Lucida Grande, Helvetica Neue
+Gdraw.GProgress.Foreground: #424242
+Gdraw.GProgress.FillColor: #3875d6
+Gdraw.GProgress.Background: #f5f5f5
+
+Gdraw.GGadget.Popup.Font: 400 12pt Lucida Grande
+Gdraw.GGadget.Popup.Foreground: #424242
+Gdraw.GGadget.Popup.Background: #ffffff
+Gdraw.GGadget.Popup.Delay: 1000
+Gdraw.GGadget.Popup.LifeTime: 20000
+
+Gdraw.GGadget.Box.BorderInner: False
+Gdraw.GGadget.Box.BorderOuter: False
+Gdraw.GGadget.Box.ActiveInner: False
+Gdraw.GGadget.Box.ShadowOuter: False
+Gdraw.GGadget.Box.DoDepressedBackground: False
+Gdraw.GGadget.Box.DrawDefault: False
+Gdraw.GGadget.Box.GradientBG: False
+Gdraw.GGadget.Box.NormalForeground: #424242
+Gdraw.GGadget.Box.DisabledForeground: #9c9c9c
+Gdraw.GGadget.Box.NormalBackground: #ededed
+Gdraw.GGadget.Box.DisabledBackground: #edeceb
+Gdraw.GGadget.Box.PressedBackground: #edeceb
+Gdraw.GGadget.Box.GradientStartCol: #ffffff
+Gdraw.GGadget.Box.BorderBrightest: #a1a1a1
+Gdraw.GGadget.Box.BorderBrighter: #a1a1a1
+Gdraw.GGadget.Box.BorderDarker: #999999
+Gdraw.GGadget.Box.BorderDarkest: #999999
+Gdraw.GGadget.Box.BorderInnerCol: #000000
+Gdraw.GGadget.Box.BorderOuterCol: #404040
+Gdraw.GGadget.Box.ActiveBorder: #3875d6
+Gdraw.GGadget.Box.BorderType: box
+Gdraw.GGadget.Box.BorderShape: roundrect
+Gdraw.GGadget.Box.BorderWidth: 1
+Gdraw.GGadget.Box.Padding: 4
+Gdraw.GGadget.Box.Radius: 2
+Gdraw.GGadget.Font: 400 12pt Lucida Grande, Helvetica Neue
+Gdraw.GGadget.TextImageSkip: 2
+Gdraw.GGadget.ImagePath: =
+
+Gdraw.GListMark.Box.BorderInner: True
+Gdraw.GListMark.Box.NormalBackground: #e5e4e3
+Gdraw.GListMark.Box.BorderBrightest: #fcfbfa
+Gdraw.GListMark.Box.BorderBrighter: #fcfbfa
+Gdraw.GListMark.Box.BorderDarker: #dddcdb
+Gdraw.GListMark.Box.BorderDarkest: #dddcdb
+Gdraw.GListMark.Box.BorderInnerCol: #adacab
+Gdraw.GListMark.Box.BorderType: lowered
+Gdraw.GListMark.Box.BorderWidth: 1
+Gdraw.GListMark.Box.Padding: 1
+Gdraw.GListMark.Image: mac_listmark.png
+Gdraw.GListMark.DisabledImage: mac_listmark_off.png
+Gdraw.GListMark.Width: 6
+
+Gdraw.GLabel.Box.NormalBackground: #f5f5f5
+Gdraw.GLabel.Box.DisabledBackground: #f5f5f5
+Gdraw.GLabel.Box.BorderType: none
+Gdraw.GLabel.Box.BorderWidth: 0
+Gdraw.GLabel.Box.Padding: 2
+Gdraw.GLabel.Font: 400 12pt Lucida Grande, Helvetica Neue
+
+Gdraw.GButton.Box.BorderInner: True
+Gdraw.GButton.Box.BorderOuter: True
+Gdraw.GButton.Box.DoDepressedBackground: True
+Gdraw.GButton.Box.GradientBG: True
+Gdraw.GButton.Box.NormalBackground: #ffffff
+Gdraw.GButton.Box.GradientStartCol: #ededed
+Gdraw.GButton.Box.BorderBrightest: #999999
+Gdraw.GButton.Box.BorderBrighter: #999999
+Gdraw.GButton.Box.BorderInnerCol: #f9f8f7
+Gdraw.GButton.Box.BorderOuterCol: #dddcdb
+Gdraw.GButton.Box.BorderType: box
+Gdraw.GButton.Box.BorderShape: roundrect
+Gdraw.GButton.Box.BorderWidth: 1
+Gdraw.GButton.Box.Padding: 4
+Gdraw.GButton.Box.Radius: 3
+Gdraw.GButton.Font: 400 12pt Lucida Grande
+Gdraw.GButton.ShiftOnPress: False
+
+Gdraw.GDefaultButton.Box.ShadowOuter: True
+Gdraw.GDefaultButton.Box.NormalBackground: #bddbf5
+Gdraw.GDefaultButton.Box.GradientStartCol: #6bbded
+Gdraw.GDefaultButton.Box.BorderBrightest: #667aba
+Gdraw.GDefaultButton.Box.BorderBrighter: #7085cc
+Gdraw.GDefaultButton.Box.BorderDarker: #525e8a
+Gdraw.GDefaultButton.Box.BorderDarkest: #474f70
+Gdraw.GDefaultButton.Box.BorderInnerCol: #bddbf5
+
+Gdraw.GCancelButton.Box.NormalBackground: #ffffff
+Gdraw.GCancelButton.Box.GradientStartCol: #ededed
+
+
+Gdraw.GDropList.Box.BorderType: box
+Gdraw.GDropList.Box.BorderShape: rect
+Gdraw.GDropList.Box.BorderWidth: 1
+
+Gdraw.GRadio.Box.NormalBackground: #f5f5f5
+Gdraw.GRadio.Box.DisabledBackground: #f5f5f5
+Gdraw.GRadio.Box.PressedBackground: #f5f5f5
+Gdraw.GRadio.Box.GradientStartCol: #f5f5f5
+Gdraw.GRadio.Box.BorderBrightest: #f5f5f5
+Gdraw.GRadio.Box.BorderBrighter: #f5f5f5
+Gdraw.GRadio.Box.BorderDarker: #f5f5f5
+Gdraw.GRadio.Box.BorderDarkest: #f5f5f5
+Gdraw.GRadio.Box.BorderInnerCol: #f5f5f5
+Gdraw.GRadio.Box.BorderOuterCol: #f5f5f5
+Gdraw.GRadio.Box.ActiveBorder: #f5f5f5
+Gdraw.GRadio.Box.BorderType: none
+Gdraw.GRadio.Box.Padding: 0
+Gdraw.GRadio.Font: 400 12pt Lucida Grande, Helvetica Neue
+
+Gdraw.GRadioOn.Box.DoDepressedBackground: False
+Gdraw.GRadioOn.Box.NormalBackground: #f5f5f5
+Gdraw.GRadioOn.Box.BorderBrighter: #f1f0ef
+Gdraw.GRadioOn.Box.BorderDarkest: #dddcdb
+Gdraw.GRadioOn.Box.BorderType: none
+Gdraw.GRadioOn.Box.BorderShape: elipse
+Gdraw.GRadioOn.Box.Padding: 0
+Gdraw.GRadioOn.Image: mac_radio_on.png
+Gdraw.GRadioOn.DisabledImage: mac_radio_on_dis.png
+
+Gdraw.GRadioOff.Box.DoDepressedBackground: False
+Gdraw.GRadioOff.Box.NormalBackground: #f5f5f5
+Gdraw.GRadioOff.Box.PressedBackground: #ffffff
+Gdraw.GRadioOff.Box.BorderBrightest: #f9f8f7
+Gdraw.GRadioOff.Box.BorderBrighter: #f1f0ef
+Gdraw.GRadioOff.Box.BorderDarker: #e7e6e5
+Gdraw.GRadioOff.Box.BorderDarkest: #dddcdb
+Gdraw.GRadioOff.Box.BorderInnerCol: #757371
+Gdraw.GRadioOff.Box.BorderType: none
+Gdraw.GRadioOff.Box.BorderShape: elipse
+Gdraw.GRadioOff.Image: mac_radio_off.png
+Gdraw.GRadioOff.DisabledImage: mac_radio_dis.png
+
+Gdraw.GCheckBox.Box.NormalBackground: #f5f5f5
+Gdraw.GCheckBox.Box.DisabledBackground: #f5f5f5
+Gdraw.GCheckBox.Box.PressedBackground: #f5f5f5
+Gdraw.GCheckBox.Box.GradientStartCol: #f5f5f5
+Gdraw.GCheckBox.Box.BorderBrightest: #f5f5f5
+Gdraw.GCheckBox.Box.BorderBrighter: #f5f5f5
+Gdraw.GCheckBox.Box.BorderDarker: #f5f5f5
+Gdraw.GCheckBox.Box.BorderDarkest: #f5f5f5
+Gdraw.GCheckBox.Box.BorderInnerCol: #f5f5f5
+Gdraw.GCheckBox.Box.BorderOuterCol: #f5f5f5
+Gdraw.GCheckBox.Box.ActiveBorder: #f5f5f5
+Gdraw.GCheckBox.Box.BorderType: none
+Gdraw.GCheckBox.Box.Padding: 0
+Gdraw.GCheckBox.Font: 400 12pt Lucida Grande, Helvetica Neue
+
+Gdraw.GCheckBoxOn.Box.BorderInner: True
+Gdraw.GCheckBoxOn.Box.DoDepressedBackground: False
+Gdraw.GCheckBoxOn.Box.NormalBackground: #f5f5f5
+Gdraw.GCheckBoxOn.Box.PressedBackground: #6685ba
+Gdraw.GCheckBoxOn.Box.BorderType: none
+Gdraw.GCheckBoxOn.Box.BorderShape: roundrect
+Gdraw.GCheckBoxOn.Image: mac_check_on.png
+Gdraw.GCheckBoxOn.DisabledImage: mac_check_on_dis.png
+
+Gdraw.GCheckBoxOff.Box.BorderInner: True
+Gdraw.GCheckBoxOff.Box.DoDepressedBackground: False
+Gdraw.GCheckBoxOff.Box.NormalBackground: #f5f5f5
+Gdraw.GCheckBoxOff.Box.PressedBackground: #f5f5f5
+Gdraw.GCheckBoxOff.Box.BorderType: none
+Gdraw.GCheckBoxOff.Box.BorderShape: roundrect
+Gdraw.GCheckBoxOff.Image: mac_check_off.png
+Gdraw.GCheckBoxOff.DisabledImage: mac_check_dis.png
+
+Gdraw.GTextField.Box.NormalBackground: #ffffff
+Gdraw.GTextField.Box.BorderBrightest: #b8b8b8
+Gdraw.GTextField.Box.BorderBrighter: #b8b8b8
+Gdraw.GTextField.Box.BorderDarker: #bfbfbd
+Gdraw.GTextField.Box.BorderDarkest: #b2b2b0
+Gdraw.GTextField.Box.BorderInnerCol: #ffffff
+Gdraw.GTextField.Box.BorderType: lowered
+Gdraw.GTextField.Box.Padding: 4
+Gdraw.GTextField.Box.Radius: 1
+Gdraw.GTextField.Font: 400 12pt Lucida Grande
+
+
+Gdraw.GComboBoxMenu.Box.BorderOuter: True
+Gdraw.GComboBoxMenu.Box.ShadowOuter: True
+Gdraw.GComboBoxMenu.Box.GradientBG: True
+Gdraw.GComboBoxMenu.Box.NormalBackground: #f5f5f5
+Gdraw.GComboBoxMenu.Box.GradientStartCol: #ededeb
+Gdraw.GComboBoxMenu.Box.BorderBrightest: #908f8e
+Gdraw.GComboBoxMenu.Box.BorderBrighter: #908f8e
+Gdraw.GComboBoxMenu.Box.BorderDarker: #908f8e
+Gdraw.GComboBoxMenu.Box.BorderDarkest: #908f8e
+Gdraw.GComboBoxMenu.Box.BorderInnerCol: #f9f8f7
+Gdraw.GComboBoxMenu.Box.BorderOuterCol: #dddcdb
+Gdraw.GComboBoxMenu.Box.Padding: 2
+Gdraw.GComboBoxMenu.Box.Radius: 6
+
+
+Gdraw.GNumericFieldSpinner.Box.GradientBG: True
+Gdraw.GNumericFieldSpinner.Box.NormalBackground: #f5f5f5
+Gdraw.GNumericFieldSpinner.Box.GradientStartCol: #ededed
+Gdraw.GNumericFieldSpinner.Box.BorderBrightest: #908f8e
+Gdraw.GNumericFieldSpinner.Box.BorderBrighter: #908f8e
+Gdraw.GNumericFieldSpinner.Box.BorderDarker: #908f8e
+Gdraw.GNumericFieldSpinner.Box.BorderDarkest: #908f8e
+Gdraw.GNumericFieldSpinner.Box.BorderInnerCol: #f9f8f7
+Gdraw.GNumericFieldSpinner.Box.BorderOuterCol: #dddcdb
+Gdraw.GNumericFieldSpinner.Box.BorderType: lowered
+Gdraw.GNumericFieldSpinner.Box.BorderWidth: 1
+Gdraw.GNumericFieldSpinner.Box.Padding: 4
+Gdraw.GNumericFieldSpinner.Box.Radius: 6
+
+Gdraw.GList.Box.BorderOuter: False
+Gdraw.GList.Box.NormalBackground: #ffffff
+Gdraw.GList.Box.BorderBrightest: #999999
+Gdraw.GList.Box.BorderBrighter: #999999
+Gdraw.GList.Font: 400 12pt Lucida Grande, Helvetica Neue
+
+Gdraw.GScrollBar.Box.BorderOuter: False
+Gdraw.GScrollBar.Box.NormalForeground: #908f8e
+Gdraw.GScrollBar.Box.NormalBackground: #ffffff
+Gdraw.GScrollBar.Box.GradientStartCol: #ededed
+Gdraw.GScrollBar.Box.BorderBrightest: #999999
+Gdraw.GScrollBar.Box.BorderBrighter: #999999
+Gdraw.GScrollBar.Box.BorderDarker: #808080
+Gdraw.GScrollBar.Box.BorderDarkest: #808080
+Gdraw.GScrollBar.Box.BorderInnerCol: #808080
+Gdraw.GScrollBar.Box.BorderOuterCol: #8c8c8c
+Gdraw.GScrollBar.Box.BorderType: box
+Gdraw.GScrollBar.Box.BorderWidth: 1
+Gdraw.GScrollBar.Box.Padding: 2
+Gdraw.GScrollBar.Box.Radius: 1
+
+Gdraw.GScrollBarThumb.Box.NormalForeground: #bdbdbd
+Gdraw.GScrollBarThumb.Box.NormalBackground: #bdbdbd
+Gdraw.GScrollBarThumb.Box.PressedBackground: #bdbdba
+Gdraw.GScrollBarThumb.Box.BorderBrightest: #bdbdbd
+Gdraw.GScrollBarThumb.Box.BorderBrighter: #bdbdbd
+Gdraw.GScrollBarThumb.Box.BorderDarker: #bdbdbd
+Gdraw.GScrollBarThumb.Box.BorderDarkest: #bdbdbd
+Gdraw.GScrollBarThumb.Box.BorderInnerCol: #bdbdbd
+Gdraw.GScrollBarThumb.Box.BorderOuterCol: #bdbdbd
+Gdraw.GScrollBarThumb.Box.BorderWidth: 1
+Gdraw.GScrollBarThumb.Box.Padding: 4
+Gdraw.GScrollBarThumb.Box.Radius: 10
+
+Gdraw.GLine.Box.BorderBrightest: #f9f8f7
+Gdraw.GLine.Box.BorderBrighter: #f9f8f7
+Gdraw.GLine.Box.BorderType: engraved
+Gdraw.GLine.Box.BorderShape: roundrect
+Gdraw.GLine.Box.BorderWidth: 2
+Gdraw.GLine.Box.Padding: 0
+
+Gdraw.GGroup.Box.NormalBackground: #ffffff
+Gdraw.GGroup.Box.DisabledBackground: #ffffff
+Gdraw.GGroup.Box.BorderType: none
+Gdraw.GGroup.Box.BorderShape: roundrect
+Gdraw.GGroup.Box.Padding: 0
+
+Gdraw.GMenuBar.Box.BorderOuter: False
+Gdraw.GMenuBar.Box.GradientBG: True
+Gdraw.GMenuBar.Box.NormalBackground: #e6e6e6
+Gdraw.GMenuBar.Box.GradientStartCol: #b0b0b0
+Gdraw.GMenuBar.Box.BorderBrightest: #e6e6e6
+Gdraw.GMenuBar.Box.BorderBrighter: #e6e6e6
+Gdraw.GMenuBar.Box.BorderDarker: #8c8c8c
+Gdraw.GMenuBar.Box.BorderDarkest: #8c8c8c
+Gdraw.GMenuBar.Box.BorderInnerCol: #d9d9d9
+Gdraw.GMenuBar.Box.BorderOuterCol: #d9d9d9
+Gdraw.GMenuBar.Box.BorderShape: roundrect
+Gdraw.GMenuBar.Box.BorderWidth: 1
+Gdraw.GMenuBar.Box.Padding: 5
+Gdraw.GMenuBar.Font: 700 12pt Lucida Grande, Helvetica Neue
+
+Gdraw.GMenu.Box.BorderOuter: False
+Gdraw.GMenu.Box.NormalBackground: #ffffff
+Gdraw.GMenu.Box.BorderBrightest: #999999
+Gdraw.GMenu.Box.BorderBrighter: #999999
+Gdraw.GMenu.Box.BorderInnerCol: #e6e6e6
+Gdraw.GMenu.Box.BorderShape: roundrect
+Gdraw.GMenu.Box.Padding: 4
+Gdraw.GMenu.Font: 400 12pt Lucida Grande, Helvetica Neue
+Gdraw.GMenu.MacIcons: True
+
+Gdraw.GMatrixEdit.Box.NormalBackground: #ffffff
+Gdraw.GMatrixEdit.Box.DisabledBackground: #edeceb
+Gdraw.GMatrixEdit.Box.BorderBrightest: #999999
+Gdraw.GMatrixEdit.Box.BorderBrighter: #999999
+Gdraw.GMatrixEdit.Box.BorderType: box
+Gdraw.GMatrixEdit.Box.BorderShape: roundrect
+Gdraw.GMatrixEdit.Box.BorderWidth: 1
+Gdraw.GMatrixEdit.Box.Padding: 4
+Gdraw.GMatrixEdit.Font: 400 12pt Lucida Grande, Helvetica Neue
+
+Gdraw.GMatrixEdit.TitleBG: #a09f9e
+Gdraw.GMatrixEdit.TitleFG: #ffffff
+Gdraw.GMatrixEdit.TitleDivider: #757371
+Gdraw.GMatrixEdit.RuleCol: #bdbdba
+Gdraw.GMatrixEdit.FrozenCol: #ab3642
+Gdraw.GMatrixEdit.ActiveCol: #3875d6
+Gdraw.GMatrixEdit.ActiveBG: #b5d6ff
+Gdraw.GMatrixEdit.TitleFont: 700 14pt Lucida Grande
+
+Gdraw.GDrawable.Box.BorderType: none
+Gdraw.GDrawable.Box.BorderWidth: 0
+Gdraw.GDrawable.Box.Padding: 0
+
+Gdraw.GTabSet.Box.BorderBrightest: #999999
+Gdraw.GTabSet.Box.BorderBrighter: #999999
+Gdraw.GTabSet.Box.BorderShape: roundrect
+Gdraw.GTabSet.Box.BorderWidth: 1
+Gdraw.GTabSet.Box.Padding: 6
+
+Gdraw.GVTabSet.Box.Padding: 10
+
