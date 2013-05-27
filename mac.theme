@@ -320,8 +320,13 @@ Gdraw.GScrollBarThumb.Box.BorderWidth: 1
 Gdraw.GScrollBarThumb.Box.Padding: 4
 Gdraw.GScrollBarThumb.Box.Radius: 10
 
+Gdraw.GLine.Box.NormalForeground: #c2c2c2
 Gdraw.GLine.Box.BorderBrightest: #f9f8f7
 Gdraw.GLine.Box.BorderBrighter: #f9f8f7
+Gdraw.GLine.Box.BorderDarker: #c2c2c2
+Gdraw.GLine.Box.BorderDarkest: #c2c2c2
+Gdraw.GLine.Box.BorderInnerCol: #c2c2c2
+Gdraw.GLine.Box.BorderOuterCol: #c2c2c2
 Gdraw.GLine.Box.BorderType: engraved
 Gdraw.GLine.Box.BorderShape: roundrect
 Gdraw.GLine.Box.BorderWidth: 2
@@ -346,15 +351,19 @@ Gdraw.GMenuBar.Box.BorderOuterCol: #d9d9d9
 Gdraw.GMenuBar.Box.BorderShape: roundrect
 Gdraw.GMenuBar.Box.BorderWidth: 1
 Gdraw.GMenuBar.Box.Padding: 5
+Gdraw.GMenuBar.Box.Radius: 1
 Gdraw.GMenuBar.Font: 700 12pt Lucida Grande, Helvetica Neue
 
 Gdraw.GMenu.Box.BorderOuter: False
 Gdraw.GMenu.Box.NormalBackground: #ffffff
-Gdraw.GMenu.Box.BorderBrightest: #999999
-Gdraw.GMenu.Box.BorderBrighter: #999999
+Gdraw.GMenu.Box.BorderBrightest: #c2c2c2
+Gdraw.GMenu.Box.BorderBrighter: #c2c2c2
+Gdraw.GMenu.Box.BorderDarker: #c2c2c2
+Gdraw.GMenu.Box.BorderDarkest: #c2c2c2
 Gdraw.GMenu.Box.BorderInnerCol: #e6e6e6
 Gdraw.GMenu.Box.BorderShape: roundrect
 Gdraw.GMenu.Box.Padding: 4
+Gdraw.GMenu.Box.Radius: 1
 Gdraw.GMenu.Font: 400 12pt Lucida Grande, Helvetica Neue
 Gdraw.GMenu.MacIcons: True
 
