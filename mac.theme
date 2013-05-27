@@ -5,7 +5,7 @@ fontforge.FontView.SelectedFgColor: #ffffff
 fontforge.FontView.ChangedColor: #b5d6ff
 fontforge.FontView.HintingNeededColor: #cfe6b8
 fontforge.FontView.FontSize: 11
-fontforge.FontView.FontFamily: Lucida Grande, Helvetica Neue, Helvetica,courier,monospace
+fontforge.FontView.FontFamily: Lucida Grande, Helvetica Neue, Helvetica,Monaco,monospace
 
 fontforge.CharView.PointColor: #f57900
 fontforge.CharView.FirstPointColor: #904000
@@ -76,14 +76,13 @@ fontforge.View.Background: #f5f5f5
 
 Gdraw.Background: #f5f5f5
 Gdraw.Foreground: #424242
-Gdraw.ScreenWidthInches: 35
 
 Gdraw.GProgress.Font: 400 12pt Lucida Grande, Helvetica Neue
 Gdraw.GProgress.Foreground: #424242
 Gdraw.GProgress.FillColor: #3875d6
 Gdraw.GProgress.Background: #f5f5f5
 
-Gdraw.GGadget.Popup.Font: 400 12pt Lucida Grande
+Gdraw.GGadget.Popup.Font: 400 12pt Lucida Grande, Helvetica Neue
 Gdraw.GGadget.Popup.Foreground: #424242
 Gdraw.GGadget.Popup.Background: #ffffff
 Gdraw.GGadget.Popup.Delay: 1000
@@ -254,7 +253,7 @@ Gdraw.GTextField.Box.BorderInnerCol: #ffffff
 Gdraw.GTextField.Box.BorderType: lowered
 Gdraw.GTextField.Box.Padding: 4
 Gdraw.GTextField.Box.Radius: 1
-Gdraw.GTextField.Font: 400 12pt Lucida Grande
+Gdraw.GTextField.Font: 400 12pt Lucida Grande, Helvetica Neue
 
 
 Gdraw.GComboBoxMenu.Box.BorderOuter: True
@@ -384,7 +383,7 @@ Gdraw.GMatrixEdit.RuleCol: #bdbdba
 Gdraw.GMatrixEdit.FrozenCol: #ab3642
 Gdraw.GMatrixEdit.ActiveCol: #3875d6
 Gdraw.GMatrixEdit.ActiveBG: #b5d6ff
-Gdraw.GMatrixEdit.TitleFont: 700 14pt Lucida Grande
+Gdraw.GMatrixEdit.TitleFont: 700 14pt Lucida Grande, Helvetica Neue
 
 Gdraw.GDrawable.Box.BorderType: none
 Gdraw.GDrawable.Box.BorderWidth: 0
