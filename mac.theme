@@ -77,7 +77,7 @@ fontforge.MetricsView.KernLineColor: #3d7905
 fontforge.MetricsView.SideBearingLineColor: #12376c
 fontforge.MetricsView.SelectedGlyphColor: #8f918d
 
-fontforge.View.Background: #dbdbdb
+fontforge.View.Background: #f0f0f0
 
 Gdraw.Background: #4f4f4f
 Gdraw.Foreground: #424242
@@ -347,13 +347,15 @@ Gdraw.GScrollBarThumb.Box.BorderWidth: 1
 Gdraw.GScrollBarThumb.Box.Padding: 6
 Gdraw.GScrollBarThumb.Box.Radius: 10
 
-Gdraw.GLine.Box.NormalForeground: #c2c2c2
-Gdraw.GLine.Box.BorderBrightest: #f9f8f7
-Gdraw.GLine.Box.BorderBrighter: #f9f8f7
-Gdraw.GLine.Box.BorderDarker: #c2c2c2
-Gdraw.GLine.Box.BorderDarkest: #c2c2c2
-Gdraw.GLine.Box.BorderInnerCol: #c2c2c2
-Gdraw.GLine.Box.BorderOuterCol: #c2c2c2
+Gdraw.GLine.Box.NormalForeground: #404040
+Gdraw.GLine.Box.NormalBackground: #4c4c4c
+Gdraw.GLine.Box.PressedBackground: #404040
+Gdraw.GLine.Box.BorderBrightest: #4c4c4c
+Gdraw.GLine.Box.BorderBrighter: #4c4c4c
+Gdraw.GLine.Box.BorderDarker: #404040
+Gdraw.GLine.Box.BorderDarkest: #4c4c4c
+Gdraw.GLine.Box.BorderInnerCol: #4c4c4c
+Gdraw.GLine.Box.BorderOuterCol: #808080
 Gdraw.GLine.Box.BorderType: engraved
 Gdraw.GLine.Box.BorderShape: roundrect
 Gdraw.GLine.Box.BorderWidth: 2
@@ -415,6 +417,8 @@ Gdraw.GDrawable.Box.BorderType: none
 Gdraw.GDrawable.Box.BorderWidth: 0
 Gdraw.GDrawable.Box.Padding: 0
 
+Gdraw.GTabSet.Box.NormalForeground: #d9d9d9
+Gdraw.GTabSet.Box.NormalBackground: #4f4f4f
 Gdraw.GTabSet.Box.BorderBrightest: #999999
 Gdraw.GTabSet.Box.BorderBrighter: #999999
 Gdraw.GTabSet.Box.BorderShape: roundrect
