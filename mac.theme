@@ -103,7 +103,7 @@ Gdraw.GGadget.Box.DrawDefault: False
 Gdraw.GGadget.Box.GradientBG: False
 Gdraw.GGadget.Box.NormalForeground: #424242
 Gdraw.GGadget.Box.DisabledForeground: #9c9c9c
-Gdraw.GGadget.Box.NormalBackground: #ededed
+Gdraw.GGadget.Box.NormalBackground: #4c4c4c
 Gdraw.GGadget.Box.DisabledBackground: #edeceb
 Gdraw.GGadget.Box.PressedBackground: #edeceb
 Gdraw.GGadget.Box.GradientStartCol: #ffffff
@@ -115,7 +115,7 @@ Gdraw.GGadget.Box.BorderInnerCol: #000000
 Gdraw.GGadget.Box.BorderOuterCol: #404040
 Gdraw.GGadget.Box.ActiveBorder: #3875d6
 Gdraw.GGadget.Box.BorderType: double
-Gdraw.GGadget.Box.BorderShape: roundrect
+Gdraw.GGadget.Box.BorderShape: rect
 Gdraw.GGadget.Box.BorderWidth: 1
 Gdraw.GGadget.Box.Padding: 6
 Gdraw.GGadget.Box.Radius: 1
@@ -162,7 +162,7 @@ Gdraw.GButton.Box.BorderInnerCol: #595959
 Gdraw.GButton.Box.BorderOuterCol: #454545
 Gdraw.GButton.Box.ActiveBorder: #2e3838
 Gdraw.GButton.Box.BorderType: double
-Gdraw.GButton.Box.BorderShape: roundrect
+Gdraw.GButton.Box.BorderShape: rect
 Gdraw.GButton.Box.BorderWidth: 1
 Gdraw.GButton.Box.Padding: 6
 Gdraw.GButton.Box.Radius: 3
@@ -255,7 +255,7 @@ Gdraw.GCheckBoxOn.Box.DoDepressedBackground: False
 Gdraw.GCheckBoxOn.Box.NormalBackground: #f5f5f5
 Gdraw.GCheckBoxOn.Box.PressedBackground: #6685ba
 Gdraw.GCheckBoxOn.Box.BorderType: none
-Gdraw.GCheckBoxOn.Box.BorderShape: roundrect
+Gdraw.GCheckBoxOn.Box.BorderShape: rect
 Gdraw.GCheckBoxOn.Image: mac_check_on.png
 Gdraw.GCheckBoxOn.DisabledImage: mac_check_on_dis.png
 
@@ -264,7 +264,7 @@ Gdraw.GCheckBoxOff.Box.DoDepressedBackground: False
 Gdraw.GCheckBoxOff.Box.NormalBackground: #f5f5f5
 Gdraw.GCheckBoxOff.Box.PressedBackground: #f5f5f5
 Gdraw.GCheckBoxOff.Box.BorderType: none
-Gdraw.GCheckBoxOff.Box.BorderShape: roundrect
+Gdraw.GCheckBoxOff.Box.BorderShape: rect
 Gdraw.GCheckBoxOff.Image: mac_check_off.png
 Gdraw.GCheckBoxOff.DisabledImage: mac_check_dis.png
 
@@ -320,19 +320,22 @@ Gdraw.GList.Box.BorderBrighter: #999999
 Gdraw.GList.Font: 400 12pt Lucida Grande, Helvetica Neue
 
 Gdraw.GScrollBar.Box.BorderOuter: False
-Gdraw.GScrollBar.Box.NormalForeground: #908f8e
-Gdraw.GScrollBar.Box.NormalBackground: #ffffff
-Gdraw.GScrollBar.Box.GradientStartCol: #ededed
-Gdraw.GScrollBar.Box.BorderBrightest: #999999
-Gdraw.GScrollBar.Box.BorderBrighter: #999999
-Gdraw.GScrollBar.Box.BorderDarker: #808080
-Gdraw.GScrollBar.Box.BorderDarkest: #808080
-Gdraw.GScrollBar.Box.BorderInnerCol: #808080
-Gdraw.GScrollBar.Box.BorderOuterCol: #8c8c8c
+Gdraw.GScrollBar.Box.NormalForeground: #333333
+Gdraw.GScrollBar.Box.DisabledForeground: #808080
+Gdraw.GScrollBar.Box.NormalBackground: #404040
+Gdraw.GScrollBar.Box.DisabledBackground: #333333
+Gdraw.GScrollBar.Box.PressedBackground: #808080
+Gdraw.GScrollBar.Box.GradientStartCol: #404040
+Gdraw.GScrollBar.Box.BorderBrightest: #404040
+Gdraw.GScrollBar.Box.BorderBrighter: #4c4c4c
+Gdraw.GScrollBar.Box.BorderDarker: #4c4c4c
+Gdraw.GScrollBar.Box.BorderDarkest: #666666
+Gdraw.GScrollBar.Box.BorderInnerCol: #404040
+Gdraw.GScrollBar.Box.BorderOuterCol: #666666
+Gdraw.GScrollBar.Box.ActiveBorder: #363636
 Gdraw.GScrollBar.Box.BorderType: double
-Gdraw.GScrollBar.Box.BorderShape: rect
 Gdraw.GScrollBar.Box.BorderWidth: 1
-Gdraw.GScrollBar.Box.Padding: 2
+Gdraw.GScrollBar.Box.Padding: 1
 
 Gdraw.GScrollBarThumb.Box.NormalForeground: #bdbdbd
 Gdraw.GScrollBarThumb.Box.NormalBackground: #bdbdbd
@@ -348,7 +351,6 @@ Gdraw.GScrollBarThumb.Box.Padding: 6
 Gdraw.GScrollBarThumb.Box.Radius: 10
 
 Gdraw.GLine.Box.NormalForeground: #404040
-Gdraw.GLine.Box.NormalBackground: #4c4c4c
 Gdraw.GLine.Box.PressedBackground: #404040
 Gdraw.GLine.Box.BorderBrightest: #4c4c4c
 Gdraw.GLine.Box.BorderBrighter: #4c4c4c
@@ -357,14 +359,14 @@ Gdraw.GLine.Box.BorderDarkest: #4c4c4c
 Gdraw.GLine.Box.BorderInnerCol: #4c4c4c
 Gdraw.GLine.Box.BorderOuterCol: #808080
 Gdraw.GLine.Box.BorderType: engraved
-Gdraw.GLine.Box.BorderShape: roundrect
+Gdraw.GLine.Box.BorderShape: rect
 Gdraw.GLine.Box.BorderWidth: 2
 Gdraw.GLine.Box.Padding: 0
 
-Gdraw.GGroup.Box.NormalBackground: #ffffff
+Gdraw.GGroup.Box.NormalBackground: #0d0d0d
 Gdraw.GGroup.Box.DisabledBackground: #ffffff
 Gdraw.GGroup.Box.BorderType: none
-Gdraw.GGroup.Box.BorderShape: roundrect
+Gdraw.GGroup.Box.BorderShape: rect
 Gdraw.GGroup.Box.Padding: 0
 
 Gdraw.GMenuBar.Box.BorderOuter: False
@@ -377,7 +379,7 @@ Gdraw.GMenuBar.Box.BorderDarker: #8c8c8c
 Gdraw.GMenuBar.Box.BorderDarkest: #8c8c8c
 Gdraw.GMenuBar.Box.BorderInnerCol: #424242
 Gdraw.GMenuBar.Box.ActiveBorder: #363636
-Gdraw.GMenuBar.Box.BorderShape: roundrect
+Gdraw.GMenuBar.Box.BorderShape: rect
 Gdraw.GMenuBar.Box.BorderWidth: 1
 Gdraw.GMenuBar.Font: 400 11pt Arial, Helvetica Neue
 
@@ -389,7 +391,7 @@ Gdraw.GMenu.Box.BorderBrighter: #5e5e5e
 Gdraw.GMenu.Box.BorderDarker: #c2c2c2
 Gdraw.GMenu.Box.BorderDarkest: #424242
 Gdraw.GMenu.Box.BorderInnerCol: #e6e6e6
-Gdraw.GMenu.Box.BorderShape: roundrect
+Gdraw.GMenu.Box.BorderShape: rect
 Gdraw.GMenu.Box.Padding: 6
 Gdraw.GMenu.Font: 400 12pt Lucida Grande, Helvetica Neue
 Gdraw.GMenu.MacIcons: True
@@ -399,7 +401,7 @@ Gdraw.GMatrixEdit.Box.DisabledBackground: #edeceb
 Gdraw.GMatrixEdit.Box.BorderBrightest: #999999
 Gdraw.GMatrixEdit.Box.BorderBrighter: #999999
 Gdraw.GMatrixEdit.Box.BorderType: double
-Gdraw.GMatrixEdit.Box.BorderShape: roundrect
+Gdraw.GMatrixEdit.Box.BorderShape: rect
 Gdraw.GMatrixEdit.Box.BorderWidth: 1
 Gdraw.GMatrixEdit.Box.Padding: 6
 Gdraw.GMatrixEdit.Font: 400 12pt Lucida Grande, Helvetica Neue
@@ -413,6 +415,7 @@ Gdraw.GMatrixEdit.ActiveCol: #3875d6
 Gdraw.GMatrixEdit.ActiveBG: #b5d6ff
 Gdraw.GMatrixEdit.TitleFont: 700 14pt Lucida Grande, Helvetica Neue
 
+Gdraw.GDrawable.Box.NormalForeground: #999999
 Gdraw.GDrawable.Box.BorderType: none
 Gdraw.GDrawable.Box.BorderWidth: 0
 Gdraw.GDrawable.Box.Padding: 0
@@ -421,7 +424,7 @@ Gdraw.GTabSet.Box.NormalForeground: #d9d9d9
 Gdraw.GTabSet.Box.NormalBackground: #4f4f4f
 Gdraw.GTabSet.Box.BorderBrightest: #999999
 Gdraw.GTabSet.Box.BorderBrighter: #999999
-Gdraw.GTabSet.Box.BorderShape: roundrect
+Gdraw.GTabSet.Box.BorderShape: rect
 Gdraw.GTabSet.Box.BorderWidth: 1
 
 Gdraw.GVTabSet.Box.Padding: 10
