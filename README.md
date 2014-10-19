@@ -3,7 +3,7 @@ FontForge Dark
 
 A Dark theme for [FontForge](http://fontforge.org/): a font editor.
 
-<img src="https://raw.githubusercontent.com/mooniak/mac-fontforge/master/screenshots/screen_1.png" alt>
+<img src="https://raw.githubusercontent.com/mooniak/mac-fontforge/master/_screenshots/screen_1.png" alt>
 
 ##Features
 * Inkcscape osxmenu / Adobe llustrator inpiered colour theme
@@ -20,9 +20,9 @@ A Dark theme for [FontForge](http://fontforge.org/): a font editor.
 
 ##Screenshots
 
-<img src="https://raw.githubusercontent.com/mooniak/mac-fontforge/master/screenshots/screen_2.png" alt>
-<img src="https://raw.githubusercontent.com/mooniak/mac-fontforge/master/screenshots/screen_3.png" alt>
-<img src="https://raw.githubusercontent.com/mooniak/mac-fontforge/master/screenshots/screen_4.png" alt>
+<img src="https://raw.githubusercontent.com/mooniak/mac-fontforge/master/_screenshots/screen_2.png" alt>
+<img src="https://raw.githubusercontent.com/mooniak/mac-fontforge/master/_screenshots/screen_3.png" alt>
+<img src="https://raw.githubusercontent.com/mooniak/mac-fontforge/master/_screenshots/screen_4.png" alt>
 
 
 ##Credits
