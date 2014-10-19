@@ -3,10 +3,10 @@ FontForge Dark
 
 A Dark theme for [FontForge](http://fontforge.org/): a font editor.
 
+<img src="https://raw.githubusercontent.com/mooniak/mac-fontforge/master/screenshots/screen_1.png" alt>
+##Installation
 
-#Installation
-
-##Mac
+###Mac
 
 * Copy  `.png`files to FontoForge´s  `pixmaps` directory
 * On your preferences dialog, choose the `dark.theme` file as the resource file.
