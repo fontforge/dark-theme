@@ -1,7 +1,7 @@
 FontForge Dark
 ==============
 
-A Dark theme for the [FontForge](http://fontforge.org/): a font editor.
+A Dark theme for [FontForge](http://fontforge.org/): a font editor.
 
 
 To install on Mac:
