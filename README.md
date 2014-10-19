@@ -21,5 +21,5 @@ A Dark theme for [FontForge](http://fontforge.org/): a font editor.
 
 ##Credits
 
-Started by [Kemie Guaida](http://www.monolinea.com) as mac-fontforge
-Updated by [Pathum Egodawatta](http://mooniak.com)
+- Started by [Kemie Guaida](http://www.monolinea.com) as mac-fontforge
+- Updated to Dark Theme by [Pathum Egodawatta](http://mooniak.com)
