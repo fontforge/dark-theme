@@ -77,10 +77,10 @@ fontforge.MetricsView.KernLineColor: #3d7905
 fontforge.MetricsView.SideBearingLineColor: #12376c
 fontforge.MetricsView.SelectedGlyphColor: #8f918d
 
-fontforge.View.Background: #f0f0f0
+fontforge.View.Background: #f7f7f7
 
 Gdraw.Background: #4f4f4f
-Gdraw.Foreground: #424242
+Gdraw.Foreground: #949494
 Gdraw.ScreenWidthInches: 17.8723
 
 Gdraw.GProgress.Font: 400 12pt Lucida Grande, Helvetica Neue
@@ -101,9 +101,9 @@ Gdraw.GGadget.Box.ShadowOuter: False
 Gdraw.GGadget.Box.DoDepressedBackground: False
 Gdraw.GGadget.Box.DrawDefault: False
 Gdraw.GGadget.Box.GradientBG: False
-Gdraw.GGadget.Box.NormalForeground: #4c4c4c
+Gdraw.GGadget.Box.NormalForeground: #4f4f4f
 Gdraw.GGadget.Box.DisabledForeground: #9c9c9c
-Gdraw.GGadget.Box.NormalBackground: #4c4c4c
+Gdraw.GGadget.Box.NormalBackground: #4f4f4f
 Gdraw.GGadget.Box.DisabledBackground: #edeceb
 Gdraw.GGadget.Box.PressedBackground: #edeceb
 Gdraw.GGadget.Box.GradientStartCol: #ffffff
@@ -113,7 +113,7 @@ Gdraw.GGadget.Box.BorderDarker: #454545
 Gdraw.GGadget.Box.BorderDarkest: #212121
 Gdraw.GGadget.Box.BorderInnerCol: #000000
 Gdraw.GGadget.Box.BorderOuterCol: #404040
-Gdraw.GGadget.Box.ActiveBorder: #3875d6
+Gdraw.GGadget.Box.ActiveBorder: #d66926
 Gdraw.GGadget.Box.BorderType: lowered
 Gdraw.GGadget.Box.BorderShape: rect
 Gdraw.GGadget.Box.BorderWidth: 1
@@ -124,7 +124,7 @@ Gdraw.GGadget.TextImageSkip: 2
 Gdraw.GGadget.ImagePath: =
 
 Gdraw.GListMark.Box.BorderInner: True
-Gdraw.GListMark.Box.NormalBackground: #4f4f4f
+Gdraw.GListMark.Box.NormalForeground: #b8b8b8
 Gdraw.GListMark.Box.BorderWidth: 1
 Gdraw.GListMark.Box.Padding: 1
 Gdraw.GListMark.Image: mac_listmark.png
@@ -132,7 +132,6 @@ Gdraw.GListMark.DisabledImage: mac_listmark_off.png
 Gdraw.GListMark.Width: 6
 
 Gdraw.GLabel.Box.NormalForeground: #c2c2c2
-Gdraw.GLabel.Box.NormalBackground: #4f4f4f
 Gdraw.GLabel.Box.DisabledBackground: #7a7a7a
 Gdraw.GLabel.Box.PressedBackground: #828282
 Gdraw.GLabel.Box.BorderType: none
@@ -191,7 +190,6 @@ Gdraw.GDropList.Box.BorderShape: rect
 Gdraw.GDropList.Box.BorderWidth: 1
 
 Gdraw.GRadio.Box.NormalForeground: #a8a8a8
-Gdraw.GRadio.Box.NormalBackground: #4f4f4f
 Gdraw.GRadio.Box.DisabledBackground: #4f4f4f
 Gdraw.GRadio.Box.PressedBackground: #4f4f4f
 Gdraw.GRadio.Box.GradientStartCol: #4f4f4f
@@ -227,7 +225,6 @@ Gdraw.GRadioOff.Image: mac_radio_off.png
 Gdraw.GRadioOff.DisabledImage: mac_radio_dis.png
 
 Gdraw.GCheckBox.Box.NormalForeground: #a8a8a8
-Gdraw.GCheckBox.Box.NormalBackground: #4f4f4f
 Gdraw.GCheckBox.Box.DisabledBackground: #4f4f4f
 Gdraw.GCheckBox.Box.PressedBackground: #f5f5f5
 Gdraw.GCheckBox.Box.GradientStartCol: #4f4f4f
@@ -390,27 +387,27 @@ Gdraw.GMatrixEdit.Box.NormalBackground: #545454
 Gdraw.GMatrixEdit.Box.DisabledBackground: #edeceb
 Gdraw.GMatrixEdit.Box.BorderBrightest: #999999
 Gdraw.GMatrixEdit.Box.BorderBrighter: #999999
+Gdraw.GMatrixEdit.Box.BorderDarker: #212121
 Gdraw.GMatrixEdit.Box.BorderType: box
 Gdraw.GMatrixEdit.Box.BorderShape: rect
 Gdraw.GMatrixEdit.Box.BorderWidth: 1
 Gdraw.GMatrixEdit.Box.Padding: 6
 Gdraw.GMatrixEdit.Font: 400 12pt Lucida Grande, Helvetica Neue
 
-Gdraw.GMatrixEdit.TitleBG: #a09f9e
-Gdraw.GMatrixEdit.TitleFG: #ffffff
-Gdraw.GMatrixEdit.TitleDivider: #757371
-Gdraw.GMatrixEdit.RuleCol: #bdbdba
-Gdraw.GMatrixEdit.FrozenCol: #ab3642
-Gdraw.GMatrixEdit.ActiveCol: #3875d6
+Gdraw.GMatrixEdit.TitleBG: #383838
+Gdraw.GMatrixEdit.TitleFG: #bfbfbf
+Gdraw.GMatrixEdit.TitleDivider: #3b3838
+Gdraw.GMatrixEdit.RuleCol: #383838
+Gdraw.GMatrixEdit.FrozenCol: #0a0a03
+Gdraw.GMatrixEdit.ActiveCol: #ff5c14
 Gdraw.GMatrixEdit.ActiveBG: #b5d6ff
-Gdraw.GMatrixEdit.TitleFont: 700 14pt Lucida Grande, Helvetica Neue
+Gdraw.GMatrixEdit.TitleFont: 100 11pt Arial, Helvetica Neue
 
 Gdraw.GDrawable.Box.BorderType: none
 Gdraw.GDrawable.Box.BorderWidth: 0
 Gdraw.GDrawable.Box.Padding: 0
 
 Gdraw.GTabSet.Box.NormalForeground: #d9d9d9
-Gdraw.GTabSet.Box.NormalBackground: #4f4f4f
 Gdraw.GTabSet.Box.BorderBrightest: #2b2b2b
 Gdraw.GTabSet.Box.BorderBrighter: #999999
 Gdraw.GTabSet.Box.BorderShape: rect
