@@ -1,6 +1,6 @@
 fontforge.FontView.GlyphInfoColor: #ff7566
 fontforge.FontView.EmptySlotFgColor: #cccbca
-fontforge.FontView.SelectedColor: #3875d6
+fontforge.FontView.SelectedColor: #d6752e
 fontforge.FontView.SelectedFgColor: #ffffff
 fontforge.FontView.ChangedColor: #87b5c7
 fontforge.FontView.HintingNeededColor: #cfe6b8
@@ -101,7 +101,7 @@ Gdraw.GGadget.Box.ShadowOuter: False
 Gdraw.GGadget.Box.DoDepressedBackground: False
 Gdraw.GGadget.Box.DrawDefault: False
 Gdraw.GGadget.Box.GradientBG: False
-Gdraw.GGadget.Box.NormalForeground: #424242
+Gdraw.GGadget.Box.NormalForeground: #4c4c4c
 Gdraw.GGadget.Box.DisabledForeground: #9c9c9c
 Gdraw.GGadget.Box.NormalBackground: #4c4c4c
 Gdraw.GGadget.Box.DisabledBackground: #edeceb
@@ -124,7 +124,7 @@ Gdraw.GGadget.TextImageSkip: 2
 Gdraw.GGadget.ImagePath: =
 
 Gdraw.GListMark.Box.BorderInner: True
-Gdraw.GListMark.Box.NormalBackground: #e5e4e3
+Gdraw.GListMark.Box.NormalBackground: #4f4f4f
 Gdraw.GListMark.Box.BorderWidth: 1
 Gdraw.GListMark.Box.Padding: 1
 Gdraw.GListMark.Image: mac_listmark.png
@@ -206,7 +206,6 @@ Gdraw.GRadio.Box.Padding: 0
 Gdraw.GRadio.Font: 400 12pt Lucida Grande, Helvetica Neue
 
 Gdraw.GRadioOn.Box.DoDepressedBackground: False
-Gdraw.GRadioOn.Box.NormalBackground: #f5f5f5
 Gdraw.GRadioOn.Box.BorderBrighter: #f1f0ef
 Gdraw.GRadioOn.Box.BorderDarkest: #dddcdb
 Gdraw.GRadioOn.Box.BorderType: none
@@ -216,7 +215,6 @@ Gdraw.GRadioOn.Image: mac_radio_on.png
 Gdraw.GRadioOn.DisabledImage: mac_radio_on_dis.png
 
 Gdraw.GRadioOff.Box.DoDepressedBackground: False
-Gdraw.GRadioOff.Box.NormalBackground: #f5f5f5
 Gdraw.GRadioOff.Box.PressedBackground: #ffffff
 Gdraw.GRadioOff.Box.BorderBrightest: #f9f8f7
 Gdraw.GRadioOff.Box.BorderBrighter: #f1f0ef
@@ -246,7 +244,6 @@ Gdraw.GCheckBox.Font: 400 12pt Lucida Grande, Helvetica Neue
 
 Gdraw.GCheckBoxOn.Box.BorderInner: True
 Gdraw.GCheckBoxOn.Box.DoDepressedBackground: False
-Gdraw.GCheckBoxOn.Box.NormalBackground: #f5f5f5
 Gdraw.GCheckBoxOn.Box.PressedBackground: #6685ba
 Gdraw.GCheckBoxOn.Box.BorderType: none
 Gdraw.GCheckBoxOn.Box.BorderShape: rect
@@ -255,7 +252,6 @@ Gdraw.GCheckBoxOn.DisabledImage: mac_check_on_dis.png
 
 Gdraw.GCheckBoxOff.Box.BorderInner: True
 Gdraw.GCheckBoxOff.Box.DoDepressedBackground: False
-Gdraw.GCheckBoxOff.Box.NormalBackground: #f5f5f5
 Gdraw.GCheckBoxOff.Box.PressedBackground: #f5f5f5
 Gdraw.GCheckBoxOff.Box.BorderType: none
 Gdraw.GCheckBoxOff.Box.BorderShape: rect
@@ -367,11 +363,11 @@ Gdraw.GMenuBar.Box.NormalForeground: #d6d6d6
 Gdraw.GMenuBar.Box.NormalBackground: #4a4a4a
 Gdraw.GMenuBar.Box.GradientStartCol: #000000
 Gdraw.GMenuBar.Box.BorderBrightest: #424242
-Gdraw.GMenuBar.Box.BorderBrighter: #e6e6e6
-Gdraw.GMenuBar.Box.BorderDarker: #8c8c8c
-Gdraw.GMenuBar.Box.BorderDarkest: #8c8c8c
-Gdraw.GMenuBar.Box.BorderInnerCol: #424242
-Gdraw.GMenuBar.Box.ActiveBorder: #363636
+Gdraw.GMenuBar.Box.BorderBrighter: #4a4a4a
+Gdraw.GMenuBar.Box.BorderDarker: #4a4a4a
+Gdraw.GMenuBar.Box.BorderDarkest: #4a4a4a
+Gdraw.GMenuBar.Box.BorderInnerCol: #4a4a4a
+Gdraw.GMenuBar.Box.ActiveBorder: #4a4a4a
 Gdraw.GMenuBar.Box.BorderShape: rect
 Gdraw.GMenuBar.Box.BorderWidth: 1
 Gdraw.GMenuBar.Font: 400 11pt Arial, Helvetica Neue
@@ -379,9 +375,9 @@ Gdraw.GMenuBar.Font: 400 11pt Arial, Helvetica Neue
 Gdraw.GMenu.Box.BorderOuter: False
 Gdraw.GMenu.Box.NormalForeground: #bfbfbf
 Gdraw.GMenu.Box.NormalBackground: #636363
-Gdraw.GMenu.Box.BorderBrightest: #c2c2c2
-Gdraw.GMenu.Box.BorderBrighter: #5e5e5e
-Gdraw.GMenu.Box.BorderDarker: #c2c2c2
+Gdraw.GMenu.Box.BorderBrightest: #4a4a4a
+Gdraw.GMenu.Box.BorderBrighter: #4a4a4a
+Gdraw.GMenu.Box.BorderDarker: #4a4a4a
 Gdraw.GMenu.Box.BorderDarkest: #424242
 Gdraw.GMenu.Box.BorderInnerCol: #e6e6e6
 Gdraw.GMenu.Box.BorderShape: rect
@@ -389,11 +385,12 @@ Gdraw.GMenu.Box.Padding: 6
 Gdraw.GMenu.Font: 400 12pt Lucida Grande, Helvetica Neue
 Gdraw.GMenu.MacIcons: True
 
-Gdraw.GMatrixEdit.Box.NormalBackground: #ffffff
+Gdraw.GMatrixEdit.Box.NormalForeground: #b2b2b2
+Gdraw.GMatrixEdit.Box.NormalBackground: #545454
 Gdraw.GMatrixEdit.Box.DisabledBackground: #edeceb
 Gdraw.GMatrixEdit.Box.BorderBrightest: #999999
 Gdraw.GMatrixEdit.Box.BorderBrighter: #999999
-Gdraw.GMatrixEdit.Box.BorderType: lowered
+Gdraw.GMatrixEdit.Box.BorderType: box
 Gdraw.GMatrixEdit.Box.BorderShape: rect
 Gdraw.GMatrixEdit.Box.BorderWidth: 1
 Gdraw.GMatrixEdit.Box.Padding: 6
@@ -408,7 +405,6 @@ Gdraw.GMatrixEdit.ActiveCol: #3875d6
 Gdraw.GMatrixEdit.ActiveBG: #b5d6ff
 Gdraw.GMatrixEdit.TitleFont: 700 14pt Lucida Grande, Helvetica Neue
 
-Gdraw.GDrawable.Box.NormalForeground: #999999
 Gdraw.GDrawable.Box.BorderType: none
 Gdraw.GDrawable.Box.BorderWidth: 0
 Gdraw.GDrawable.Box.Padding: 0
