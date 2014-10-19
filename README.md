@@ -6,7 +6,7 @@ A Dark theme for [FontForge](http://fontforge.org/): a font editor.
 <img src="https://raw.githubusercontent.com/mooniak/mac-fontforge/master/screenshots/screen_1.png" alt>
 
 ##Features
-* Inkcscape osxmenu / Adobe ෂllustrator inpiered colour theme
+* Inkcscape osxmenu / Adobe llustrator inpiered colour theme
 * Inkcscape osxmenu icons on toolbar
 
 
