@@ -1,16 +1,15 @@
 FontForge Dark
-=============
+==============
 
-A Dark theme for the fontforge font editor.
-
-
-To install:
-* Copy .png files to FontoForge´s pixmaps directory
-* On your preferences dialog, choose the mac.theme file as the resource file.
-
-More detailed installation instructions coming soon.
-
-Questions and suggestions: 
+A Dark theme for [FontForge](http://fontforge.org/): a font editor.
 
 
-Statrted by Kemie Guaida <kemie (at) monolinea.com></http://www.monolinea.com>
+To install on Mac:
+
+* Copy  `.png`files to FontoForge´s  `pixmaps` directory
+* On your preferences dialog, choose the `dark.theme` file as the resource file.
+
+
+
+Statrted by [Kemie Guaida](http://www.monolinea.com) as mac-fontforge
+Updated by [Pathum Egodawatta](http://mooniak.com)
