@@ -107,14 +107,14 @@ Gdraw.GGadget.Box.NormalBackground: #4c4c4c
 Gdraw.GGadget.Box.DisabledBackground: #edeceb
 Gdraw.GGadget.Box.PressedBackground: #edeceb
 Gdraw.GGadget.Box.GradientStartCol: #ffffff
-Gdraw.GGadget.Box.BorderBrightest: #a1a1a1
-Gdraw.GGadget.Box.BorderBrighter: #a1a1a1
-Gdraw.GGadget.Box.BorderDarker: #999999
-Gdraw.GGadget.Box.BorderDarkest: #999999
+Gdraw.GGadget.Box.BorderBrightest: #333333
+Gdraw.GGadget.Box.BorderBrighter: #3b3b3b
+Gdraw.GGadget.Box.BorderDarker: #454545
+Gdraw.GGadget.Box.BorderDarkest: #212121
 Gdraw.GGadget.Box.BorderInnerCol: #000000
 Gdraw.GGadget.Box.BorderOuterCol: #404040
 Gdraw.GGadget.Box.ActiveBorder: #3875d6
-Gdraw.GGadget.Box.BorderType: double
+Gdraw.GGadget.Box.BorderType: lowered
 Gdraw.GGadget.Box.BorderShape: rect
 Gdraw.GGadget.Box.BorderWidth: 1
 Gdraw.GGadget.Box.Padding: 6
@@ -125,12 +125,6 @@ Gdraw.GGadget.ImagePath: =
 
 Gdraw.GListMark.Box.BorderInner: True
 Gdraw.GListMark.Box.NormalBackground: #e5e4e3
-Gdraw.GListMark.Box.BorderBrightest: #fcfbfa
-Gdraw.GListMark.Box.BorderBrighter: #fcfbfa
-Gdraw.GListMark.Box.BorderDarker: #dddcdb
-Gdraw.GListMark.Box.BorderDarkest: #dddcdb
-Gdraw.GListMark.Box.BorderInnerCol: #adacab
-Gdraw.GListMark.Box.BorderType: lowered
 Gdraw.GListMark.Box.BorderWidth: 1
 Gdraw.GListMark.Box.Padding: 1
 Gdraw.GListMark.Image: mac_listmark.png
@@ -151,7 +145,9 @@ Gdraw.GButton.Box.BorderOuter: True
 Gdraw.GButton.Box.DoDepressedBackground: False
 Gdraw.GButton.Box.GradientBG: True
 Gdraw.GButton.Box.NormalForeground: #e3e3e3
+Gdraw.GButton.Box.DisabledForeground: #6b6b6b
 Gdraw.GButton.Box.NormalBackground: #737373
+Gdraw.GButton.Box.DisabledBackground: #636363
 Gdraw.GButton.Box.PressedBackground: #636363
 Gdraw.GButton.Box.GradientStartCol: #595959
 Gdraw.GButton.Box.BorderBrightest: #525252
@@ -161,7 +157,7 @@ Gdraw.GButton.Box.BorderDarkest: #737373
 Gdraw.GButton.Box.BorderInnerCol: #595959
 Gdraw.GButton.Box.BorderOuterCol: #454545
 Gdraw.GButton.Box.ActiveBorder: #2e3838
-Gdraw.GButton.Box.BorderType: double
+Gdraw.GButton.Box.BorderType: lowered
 Gdraw.GButton.Box.BorderShape: rect
 Gdraw.GButton.Box.BorderWidth: 1
 Gdraw.GButton.Box.Padding: 6
@@ -186,13 +182,11 @@ Gdraw.GCancelButton.Box.BorderBrightest: #737373
 Gdraw.GCancelButton.Box.BorderDarker: #737373
 
 Gdraw.GColorButton.Box.DoDepressedBackground: True
-Gdraw.GColorButton.Box.BorderBrightest: #999999
-Gdraw.GColorButton.Box.BorderDarker: #999999
 
 Gdraw.GDropList.Box.DoDepressedBackground: True
 Gdraw.GDropList.Box.BorderBrightest: #999999
 Gdraw.GDropList.Box.BorderDarker: #999999
-Gdraw.GDropList.Box.BorderType: double
+Gdraw.GDropList.Box.BorderType: lowered
 Gdraw.GDropList.Box.BorderShape: rect
 Gdraw.GDropList.Box.BorderWidth: 1
 
@@ -207,7 +201,7 @@ Gdraw.GRadio.Box.BorderDarker: #4f4f4f
 Gdraw.GRadio.Box.BorderDarkest: #4f4f4f
 Gdraw.GRadio.Box.BorderInnerCol: #4f4f4f
 Gdraw.GRadio.Box.ActiveBorder: #4f4f4f
-Gdraw.GRadio.Box.BorderType: double
+Gdraw.GRadio.Box.BorderType: lowered
 Gdraw.GRadio.Box.Padding: 0
 Gdraw.GRadio.Font: 400 12pt Lucida Grande, Helvetica Neue
 
@@ -275,7 +269,6 @@ Gdraw.GTextField.Box.BorderBrighter: #737373
 Gdraw.GTextField.Box.BorderDarker: #737373
 Gdraw.GTextField.Box.BorderDarkest: #737373
 Gdraw.GTextField.Box.BorderInnerCol: #737373
-Gdraw.GTextField.Box.BorderType: lowered
 Gdraw.GTextField.Box.Padding: 6
 Gdraw.GTextField.Font: 400 11pt Arial Helvetica Neue
 
@@ -317,6 +310,7 @@ Gdraw.GList.Box.BorderOuter: False
 Gdraw.GList.Box.NormalBackground: #a8a8a8
 Gdraw.GList.Box.BorderBrightest: #999999
 Gdraw.GList.Box.BorderBrighter: #999999
+Gdraw.GList.Box.Padding: 7
 Gdraw.GList.Font: 400 12pt Lucida Grande, Helvetica Neue
 
 Gdraw.GScrollBar.Box.BorderOuter: False
@@ -333,19 +327,18 @@ Gdraw.GScrollBar.Box.BorderDarkest: #666666
 Gdraw.GScrollBar.Box.BorderInnerCol: #404040
 Gdraw.GScrollBar.Box.BorderOuterCol: #666666
 Gdraw.GScrollBar.Box.ActiveBorder: #363636
-Gdraw.GScrollBar.Box.BorderType: double
+Gdraw.GScrollBar.Box.BorderType: lowered
 Gdraw.GScrollBar.Box.BorderWidth: 1
 Gdraw.GScrollBar.Box.Padding: 1
 
-Gdraw.GScrollBarThumb.Box.NormalForeground: #bdbdbd
-Gdraw.GScrollBarThumb.Box.NormalBackground: #bdbdbd
+Gdraw.GScrollBarThumb.Box.NormalForeground: #7a7a7a
+Gdraw.GScrollBarThumb.Box.NormalBackground: #787878
 Gdraw.GScrollBarThumb.Box.PressedBackground: #bdbdba
-Gdraw.GScrollBarThumb.Box.BorderBrightest: #bdbdbd
-Gdraw.GScrollBarThumb.Box.BorderBrighter: #bdbdbd
-Gdraw.GScrollBarThumb.Box.BorderDarker: #bdbdbd
-Gdraw.GScrollBarThumb.Box.BorderDarkest: #bdbdbd
-Gdraw.GScrollBarThumb.Box.BorderInnerCol: #bdbdbd
-Gdraw.GScrollBarThumb.Box.BorderOuterCol: #bdbdbd
+Gdraw.GScrollBarThumb.Box.BorderBrightest: #787878
+Gdraw.GScrollBarThumb.Box.BorderBrighter: #787878
+Gdraw.GScrollBarThumb.Box.BorderDarker: #787878
+Gdraw.GScrollBarThumb.Box.BorderDarkest: #787878
+Gdraw.GScrollBarThumb.Box.BorderOuterCol: #5c5c5c
 Gdraw.GScrollBarThumb.Box.BorderWidth: 1
 Gdraw.GScrollBarThumb.Box.Padding: 6
 Gdraw.GScrollBarThumb.Box.Radius: 10
@@ -357,7 +350,7 @@ Gdraw.GLine.Box.BorderBrighter: #4c4c4c
 Gdraw.GLine.Box.BorderDarker: #404040
 Gdraw.GLine.Box.BorderDarkest: #4c4c4c
 Gdraw.GLine.Box.BorderInnerCol: #4c4c4c
-Gdraw.GLine.Box.BorderOuterCol: #808080
+Gdraw.GLine.Box.BorderOuterCol: #525252
 Gdraw.GLine.Box.BorderType: engraved
 Gdraw.GLine.Box.BorderShape: rect
 Gdraw.GLine.Box.BorderWidth: 2
@@ -400,7 +393,7 @@ Gdraw.GMatrixEdit.Box.NormalBackground: #ffffff
 Gdraw.GMatrixEdit.Box.DisabledBackground: #edeceb
 Gdraw.GMatrixEdit.Box.BorderBrightest: #999999
 Gdraw.GMatrixEdit.Box.BorderBrighter: #999999
-Gdraw.GMatrixEdit.Box.BorderType: double
+Gdraw.GMatrixEdit.Box.BorderType: lowered
 Gdraw.GMatrixEdit.Box.BorderShape: rect
 Gdraw.GMatrixEdit.Box.BorderWidth: 1
 Gdraw.GMatrixEdit.Box.Padding: 6
@@ -422,7 +415,7 @@ Gdraw.GDrawable.Box.Padding: 0
 
 Gdraw.GTabSet.Box.NormalForeground: #d9d9d9
 Gdraw.GTabSet.Box.NormalBackground: #4f4f4f
-Gdraw.GTabSet.Box.BorderBrightest: #999999
+Gdraw.GTabSet.Box.BorderBrightest: #2b2b2b
 Gdraw.GTabSet.Box.BorderBrighter: #999999
 Gdraw.GTabSet.Box.BorderShape: rect
 Gdraw.GTabSet.Box.BorderWidth: 1
