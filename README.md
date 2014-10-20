@@ -27,6 +27,11 @@ A dark theme for [FontForge](http://fontforge.org)
 <img src="https://raw.githubusercontent.com/mooniak/mac-fontforge/master/_screenshots/screen_3.png" alt>
 <img src="https://raw.githubusercontent.com/mooniak/mac-fontforge/master/_screenshots/screen_4.png" alt>
 
+## Known Issues
+
+*  Warnings window text visiblity
+*  MM Dialog window text areas clipped
+
 
 ## Credits
 
