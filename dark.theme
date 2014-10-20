@@ -81,7 +81,7 @@ fontforge.View.Background: #f7f7f7
 
 Gdraw.Background: #4f4f4f
 Gdraw.Foreground: #949494
-Gdraw.ScreenWidthInches: 20
+Gdraw.ScreenWidthInches: 17.5
 
 Gdraw.GProgress.Font: 400 12pt Cantarell, Lucida Grande, Helvetica Neue
 Gdraw.GProgress.Foreground: #424242
@@ -117,7 +117,7 @@ Gdraw.GGadget.Box.ActiveBorder: #d66926
 Gdraw.GGadget.Box.BorderType: lowered
 Gdraw.GGadget.Box.BorderShape: rect
 Gdraw.GGadget.Box.BorderWidth: 1
-Gdraw.GGadget.Box.Padding: 6
+Gdraw.GGadget.Box.Padding: 2
 Gdraw.GGadget.Box.Radius: 1
 Gdraw.GGadget.Font: 100 11pt Cantarell, Arial, Helvetica Neue
 Gdraw.GGadget.TextImageSkip: 2
@@ -126,7 +126,7 @@ Gdraw.GGadget.ImagePath: =
 Gdraw.GListMark.Box.BorderInner: True
 Gdraw.GListMark.Box.NormalForeground: #b8b8b8
 Gdraw.GListMark.Box.BorderWidth: 1
-Gdraw.GListMark.Box.Padding: 1
+Gdraw.GListMark.Box.Padding: 2
 Gdraw.GListMark.Image: mac_listmark.png
 Gdraw.GListMark.DisabledImage: mac_listmark_off.png
 Gdraw.GListMark.Width: 7
@@ -136,7 +136,7 @@ Gdraw.GLabel.Box.DisabledBackground: #7a7a7a
 Gdraw.GLabel.Box.PressedBackground: #828282
 Gdraw.GLabel.Box.BorderType: none
 Gdraw.GLabel.Box.BorderWidth: 0
-Gdraw.GLabel.Box.Padding: 8
+Gdraw.GLabel.Box.Padding: 2
 Gdraw.GLabel.Font: 400 12pt Cantarell,Lucida Grande, Helvetica Neue
 
 Gdraw.GButton.Box.BorderInner: True
@@ -145,40 +145,32 @@ Gdraw.GButton.Box.DoDepressedBackground: False
 Gdraw.GButton.Box.GradientBG: True
 Gdraw.GButton.Box.NormalForeground: #e3e3e3
 Gdraw.GButton.Box.DisabledForeground: #6b6b6b
-Gdraw.GButton.Box.NormalBackground: #737373
-Gdraw.GButton.Box.DisabledBackground: #636363
+Gdraw.GButton.Box.NormalBackground: #6e6e6e
+Gdraw.GButton.Box.DisabledBackground: #858585
 Gdraw.GButton.Box.PressedBackground: #636363
-Gdraw.GButton.Box.GradientStartCol: #595959
-Gdraw.GButton.Box.BorderBrightest: #525252
-Gdraw.GButton.Box.BorderBrighter: #737373
-Gdraw.GButton.Box.BorderDarker: #5c5c5c
-Gdraw.GButton.Box.BorderDarkest: #737373
-Gdraw.GButton.Box.BorderInnerCol: #595959
-Gdraw.GButton.Box.BorderOuterCol: #454545
-Gdraw.GButton.Box.ActiveBorder: #2e3838
+Gdraw.GButton.Box.GradientStartCol: #707070
+Gdraw.GButton.Box.BorderBrightest: #4f4f4f
+Gdraw.GButton.Box.BorderBrighter: #595959
+Gdraw.GButton.Box.BorderDarker: #4f4f4f
+Gdraw.GButton.Box.BorderDarkest: #4f4f4f
+Gdraw.GButton.Box.BorderInnerCol: #4f4f4f
+Gdraw.GButton.Box.BorderOuterCol: #4f4f4f
+Gdraw.GButton.Box.ActiveBorder: #4f4f4f
 Gdraw.GButton.Box.BorderType: lowered
 Gdraw.GButton.Box.BorderShape: rect
 Gdraw.GButton.Box.BorderWidth: 1
-Gdraw.GButton.Box.Padding: 6
-Gdraw.GButton.Box.Radius: 3
-Gdraw.GButton.Font: 400 12pt Cantarell, Lucida Grande
+Gdraw.GButton.Box.Padding: 3
+Gdraw.GButton.Font: 400 11pt Cantarell, Lucida Grande
 Gdraw.GButton.ShiftOnPress: True
 
 Gdraw.GDefaultButton.Box.ShadowOuter: True
 Gdraw.GDefaultButton.Box.DoDepressedBackground: True
-Gdraw.GDefaultButton.Box.NormalBackground: #999999
-Gdraw.GDefaultButton.Box.GradientStartCol: #666666
-Gdraw.GDefaultButton.Box.BorderBrightest: #808080
-Gdraw.GDefaultButton.Box.BorderBrighter: #808080
-Gdraw.GDefaultButton.Box.BorderDarker: #4c4c4c
-Gdraw.GDefaultButton.Box.BorderDarkest: #474f70
-Gdraw.GDefaultButton.Box.BorderInnerCol: #808080
+Gdraw.GDefaultButton.Box.NormalBackground: #878787
+Gdraw.GDefaultButton.Box.GradientStartCol: #6e6e6e
 
 Gdraw.GCancelButton.Box.DoDepressedBackground: True
-Gdraw.GCancelButton.Box.NormalBackground: #737373
-Gdraw.GCancelButton.Box.GradientStartCol: #595959
-Gdraw.GCancelButton.Box.BorderBrightest: #737373
-Gdraw.GCancelButton.Box.BorderDarker: #737373
+Gdraw.GCancelButton.Box.NormalBackground: #6e6e6e
+Gdraw.GCancelButton.Box.GradientStartCol: #707070
 
 Gdraw.GColorButton.Box.DoDepressedBackground: True
 
@@ -262,7 +254,7 @@ Gdraw.GTextField.Box.BorderBrighter: #737373
 Gdraw.GTextField.Box.BorderDarker: #737373
 Gdraw.GTextField.Box.BorderDarkest: #737373
 Gdraw.GTextField.Box.BorderInnerCol: #737373
-Gdraw.GTextField.Box.Padding: 6
+Gdraw.GTextField.Box.Padding: 2
 Gdraw.GTextField.Font: 400 11pt Cantarell, Arial Helvetica Neue
 
 Gdraw.GComboBox.Box.DisabledForeground: #696969
@@ -296,14 +288,13 @@ Gdraw.GNumericFieldSpinner.Box.BorderInnerCol: #f9f8f7
 Gdraw.GNumericFieldSpinner.Box.BorderOuterCol: #dddcdb
 Gdraw.GNumericFieldSpinner.Box.BorderType: lowered
 Gdraw.GNumericFieldSpinner.Box.BorderWidth: 1
-Gdraw.GNumericFieldSpinner.Box.Padding: 6
+Gdraw.GNumericFieldSpinner.Box.Padding: 2
 Gdraw.GNumericFieldSpinner.Box.Radius: 6
 
 Gdraw.GList.Box.BorderOuter: False
 Gdraw.GList.Box.NormalBackground: #a8a8a8
 Gdraw.GList.Box.BorderBrightest: #999999
 Gdraw.GList.Box.BorderBrighter: #999999
-Gdraw.GList.Box.Padding: 7
 Gdraw.GList.Font: 400 12pt Cantarell, Lucida Grande, Helvetica Neue
 
 Gdraw.GScrollBar.Box.BorderOuter: False
@@ -333,7 +324,7 @@ Gdraw.GScrollBarThumb.Box.BorderDarker: #787878
 Gdraw.GScrollBarThumb.Box.BorderDarkest: #787878
 Gdraw.GScrollBarThumb.Box.BorderOuterCol: #5c5c5c
 Gdraw.GScrollBarThumb.Box.BorderWidth: 1
-Gdraw.GScrollBarThumb.Box.Padding: 6
+Gdraw.GScrollBarThumb.Box.Padding: 2
 Gdraw.GScrollBarThumb.Box.Radius: 10
 
 Gdraw.GLine.Box.NormalForeground: #404040
@@ -378,7 +369,7 @@ Gdraw.GMenu.Box.BorderDarker: #4a4a4a
 Gdraw.GMenu.Box.BorderDarkest: #424242
 Gdraw.GMenu.Box.BorderInnerCol: #e6e6e6
 Gdraw.GMenu.Box.BorderShape: rect
-Gdraw.GMenu.Box.Padding: 6
+Gdraw.GMenu.Box.Padding: 2
 Gdraw.GMenu.Font: 400 12pt Cantarell, Arial, Helvetica Neue
 Gdraw.GMenu.MacIcons: True
 
@@ -391,7 +382,7 @@ Gdraw.GMatrixEdit.Box.BorderDarker: #212121
 Gdraw.GMatrixEdit.Box.BorderType: box
 Gdraw.GMatrixEdit.Box.BorderShape: rect
 Gdraw.GMatrixEdit.Box.BorderWidth: 1
-Gdraw.GMatrixEdit.Box.Padding: 6
+Gdraw.GMatrixEdit.Box.Padding: 2
 Gdraw.GMatrixEdit.Font: 400 12pt Cantarell, Lucida Grande, Helvetica Neue
 
 Gdraw.GMatrixEdit.TitleBG: #383838
@@ -414,5 +405,4 @@ Gdraw.GTabSet.Box.BorderShape: rect
 Gdraw.GTabSet.Box.BorderWidth: 1
 
 Gdraw.GVTabSet.Box.Padding: 10
-Gdraw.GVisibilityBoxOn.Image:visiblility_on.png
-Gdraw.GVisibilityBoxOff.Image:visiblility_off.png
+
