@@ -405,4 +405,6 @@ Gdraw.GTabSet.Box.BorderShape: rect
 Gdraw.GTabSet.Box.BorderWidth: 1
 
 Gdraw.GVTabSet.Box.Padding: 10
+Gdraw.CharView.Button3DEdgeDarkColor: #545454
+Gdraw.CharView.Button3DEdgeLightColor: #545454
 
