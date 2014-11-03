@@ -31,6 +31,7 @@ A dark theme for [FontForge](http://fontforge.org)
 
 *  Warnings window text visiblity
 *  MM Dialog window text areas clipped
+*  Lookups editor text visibility (Element > Font Info > Lookups)
 
 
 ## Credits
